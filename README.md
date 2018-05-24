@@ -15,12 +15,14 @@ tss-styles icons automatically inherit CSS size and color. This means they blend
 
 ### Sample Example 
 ```
-<head>
-<!--core first + styles last-->
-<link  href="/static/tss-styles/styles.css"  rel="stylesheet">
-</head>
+Go to angular.json and add styles.css in
+"styles": [
+            "./node_modules/tss-styles/styles.css"
+        ],
+You can get icons with any elements, check below.       
 <body>
-<i class="icon-user"></i>
+    <i class="icon-user"></i>
+    <span class="icon-user"></span>
 </body>
 ```
  
