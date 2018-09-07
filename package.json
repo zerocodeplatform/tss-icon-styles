@@ -1,6 +1,6 @@
 {
   "name": "tss-icon-styles",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "This README would normally document whatever steps are necessary to get your application up and running.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/zerocodeplatform/tss-icon-styles.git"
   },
-  "author": "",
+  "author": "raja palleti",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/zerocodeplatform/tss-icon-styles/issues"
